@@ -1,0 +1,3 @@
+# Private demo: block all search engines and crawlers from every page.
+User-agent: *
+Disallow: /
